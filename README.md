@@ -8,7 +8,7 @@ A website that offers marketing services.
 *CSS
 
 ##Website
-https://trand09.github.io/horiseon-refractored/
+https://trand09.github.io/refactored-horiseon/
 
 ##Contribution
 Made with ❤️&nbsp; by [Tavon Randall]
